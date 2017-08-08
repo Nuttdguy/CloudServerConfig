@@ -1,0 +1,9 @@
+# .yml configuration file
+---
+Region:
+  Vietnam: Vietnam
+  Laos: Laos
+  Thailand: Thailand
+  Cambodia: Cambodia
+  About: Locations in southeast asia
+  
